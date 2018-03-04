@@ -1,6 +1,8 @@
 # Deep_Learning_Models
 
-In this code we explore the RNN and AlexNet 
+This repository aims to explore the following Deep Learning Models:
++ RNNs, LSTMs, GRUs
++ AlexNet 
 
 ## Author 
 + [Vipul Khatana](https://github.com/vipul-khatana)
